@@ -1,0 +1,16 @@
+node_modules
+.next
+dist
+build
+coverage
+*.log
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+.DS_Store
+*.min.js
+*.min.css
+*.mjs
+*.md
+cursor-memory-bank
+custom-modes
