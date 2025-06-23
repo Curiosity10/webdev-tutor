@@ -1,4 +1,27 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# WebDevTutor - Interactive Learning Platform
+
+A comprehensive Next.js-based learning platform for webdev, fundamental knowledge, featuring interactive coding challenges, progress tracking, and hands-on practice problems.
+
+## 🚀 Features
+
+- **Interactive Learning Flow**: Structured learning paths with theory, pseudocode challenges, and practice problems
+- **Code Execution Environment**: Real-time code evaluation with test case validation
+- **Progress Tracking**: Visual progress indicators and completion status persistence
+- **Responsive Design**: Modern, accessible interface built with Tailwind CSS and Shadcn UI
+- **Authentication**: NextAuth.js integration with Google OAuth
+- **Multiple Learning Tracks**: Fundamental data structures, problem-solving techniques, and more
+
+## 🛠️ Tech Stack
+
+- **Framework**: Next.js 15 with App Router
+- **Language**: TypeScript
+- **Styling**: Tailwind CSS + Shadcn UI
+- **Authentication**: NextAuth.js
+- **State Management**: React Context
+- **Code Execution**: Client-side JavaScript evaluation
+- **Progress Storage**: localStorage (ready for backend integration)
+
+## 📁 Project Structure
 
 ## Getting Started
 
