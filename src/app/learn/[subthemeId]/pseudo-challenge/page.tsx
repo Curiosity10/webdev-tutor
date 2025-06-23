@@ -33,3 +33,9 @@ export default async function PseudocodeChallengePage({
 
   return <PseudocodeChallengeClient subthemeId={subthemeId} />;
 }
+
+export async function generateStaticParams() {
+  return [
+    { subthemeId: 'stacks' },
+  ];
+}

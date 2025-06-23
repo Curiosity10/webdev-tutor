@@ -215,3 +215,9 @@ console.log(stack.peek()); // 2`}</code>
     </div>
   );
 }
+
+export async function generateStaticParams() {
+  return [
+    { subthemeId: 'stacks' },
+  ];
+}
