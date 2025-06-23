@@ -91,3 +91,9 @@ export default async function ThemeGroupPage({ params }: ThemeGroupPageProps) {
     </div>
   );
 }
+
+export async function generateStaticParams() {
+  return [
+    { themeGroupId: 'fundamental-data-structures' },
+  ];
+}
