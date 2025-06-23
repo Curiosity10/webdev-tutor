@@ -33,3 +33,9 @@ export default async function PracticeProblemsPage({
 
   return <PracticeProblemsClient subthemeId={subthemeId} />;
 }
+
+export async function generateStaticParams() {
+  return [
+    { subthemeId: 'stacks' },
+  ];
+}
