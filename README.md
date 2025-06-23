@@ -1,4 +1,4 @@
-# WebDevTutor - Interactive Learning Platform
+# [WebDevTutor](https://curiosity10.github.io/webdev-tutor/) - Interactive Learning Platform
 
 A comprehensive Next.js-based learning platform for webdev, fundamental knowledge, featuring interactive coding challenges, progress tracking, and hands-on practice problems.
 
